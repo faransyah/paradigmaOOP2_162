@@ -18,5 +18,8 @@
     <ClCompile Include="paradigmaOOP2_162.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="multipewarisan2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
