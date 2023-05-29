@@ -24,5 +24,11 @@
     <ClCompile Include="problemmultiwaris.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="polimorpi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="overriding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
