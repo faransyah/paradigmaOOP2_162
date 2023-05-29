@@ -21,5 +21,8 @@
     <ClCompile Include="multipewarisan2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="problemmultiwaris.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

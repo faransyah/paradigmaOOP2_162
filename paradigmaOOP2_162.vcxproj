@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="multipewarisan2.cpp" />
     <ClCompile Include="paradigmaOOP2_162.cpp" />
+    <ClCompile Include="problemmultiwaris.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
